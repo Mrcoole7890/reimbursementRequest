@@ -21,6 +21,6 @@ List of features ready and TODOs for future development
 To-do list:
 * Add Cucumber and Selenium testing
 ## Getting Started
-   -git clone 
+   -git clone https://github.com/Mrcoole7890/reimbursementRequest.git
 ## Usage
 Use this application for simple reimbursement tracking between a manager a group of employees
