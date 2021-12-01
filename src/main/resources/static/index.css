@@ -1,0 +1,14 @@
+html,
+body {
+  height: 100%
+}
+.carousel-control-next,
+.carousel-control-prev, .carousel-indicators {
+    filter: invert(100%);
+}
+
+.card-body {
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-bottom: 50px;
+}
